@@ -1,0 +1,6 @@
+c:\users\joe.andrews\documents\visual studio 2013\Projects\Sample_XmlParser\Sample_XmlParser\bin\Debug\Sample_XmlParser.exe.config
+c:\users\joe.andrews\documents\visual studio 2013\Projects\Sample_XmlParser\Sample_XmlParser\bin\Debug\Sample_XmlParser.exe
+c:\users\joe.andrews\documents\visual studio 2013\Projects\Sample_XmlParser\Sample_XmlParser\bin\Debug\Sample_XmlParser.pdb
+c:\users\joe.andrews\documents\visual studio 2013\Projects\Sample_XmlParser\Sample_XmlParser\obj\Debug\Sample_XmlParser.csprojResolveAssemblyReference.cache
+c:\users\joe.andrews\documents\visual studio 2013\Projects\Sample_XmlParser\Sample_XmlParser\obj\Debug\Sample_XmlParser.exe
+c:\users\joe.andrews\documents\visual studio 2013\Projects\Sample_XmlParser\Sample_XmlParser\obj\Debug\Sample_XmlParser.pdb
